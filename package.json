@@ -23,6 +23,6 @@
     "express-swagger-generator": "^1.1.17",
     "sequelize": "^6.3.5",
     "sequelize-auto": "^0.7.1",
-    "tedious": "^9.2.1"
+    "tedious": "^11.0.5"
   }
 }
